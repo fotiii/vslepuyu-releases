@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fotiii/vslepuyu-releases/releases/latest"><img alt="Скачать для Windows" src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%B4%D0%BB%D1%8F_Windows-0a84ff?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="https://github.com/fotiii/vslepuyu-releases/releases/latest/download/Vslepuyu-Setup-1.0.0.exe"><img alt="Скачать для Windows" src="docs/badges/download.svg" height="56"></a>
 </p>
 
 <p align="center">
-  <img alt="Версия" src="https://img.shields.io/github/v/release/fotiii/vslepuyu-releases?style=flat-square&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=1e1e20">
-  <img alt="Скачиваний" src="https://img.shields.io/github/downloads/fotiii/vslepuyu-releases/total?style=flat-square&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=1e1e20">
-  <img alt="Windows 10 | 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-1e1e20?style=flat-square">
+  <img alt="версия 1.0.0" src="docs/badges/version.svg">
+  <img alt="Windows 10 | 11" src="docs/badges/windows.svg">
+  <img alt="лицензия MIT" src="docs/badges/license.svg">
 </p>
 
 ---
